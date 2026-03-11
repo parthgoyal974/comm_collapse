@@ -1,0 +1,8 @@
+data/
+results/
+*.pt
+*.pkl
+__pycache__/
+*.pyc
+*.tmp
+.env
